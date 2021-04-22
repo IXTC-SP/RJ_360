@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 191768585
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2e170b7e92e55da22d946a7f6097ddf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 18c3f331a5322c0f4c32acedea92143a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4df1ece2bd5f1054d8aa0aebd6932648, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac4425b6b314d9e41bc70fa8eaaa5cc1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b0237ad15e22345bb0360378f5c3b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e578000b5678ec249a950aaec5fb2e17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cca2c8fe4912d56448b178d41b329361, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 429e58f5022f26c4381af18878db3b58, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Teleport.prefab
+- Assets/BundleAsset/IXTC_area.xml
+- Assets/Resources/IMG_20190425_113102.jpg
+- Assets/Resources/Location 2.jpg
+- Assets/BundleAsset/lift_area_Start.xml
+- Assets/Prefabs/Hotspot.prefab
+- Assets/Resources/Aircon.jpg
+- Assets/Resources/Location 3.jpg
+- Assets/SP_IXTC360/Prefabs/SP_Answer.prefab
+- Assets/BundleAsset/railings_area.xml
+- Assets/BundleAsset/nearIXTC_meetingRoom.xml
+- Assets/Resources/Location 1.jpg
+- Assets/Resources/NoPreview.jpg
+- Assets/Resources/Fire Hose.jpg
+- Assets/Resources/Fire Alarm.jpg
+- Assets/Prefabs/MCQ.prefab
+- Assets/Resources/Location 4.jpg
+Dependencies: []
